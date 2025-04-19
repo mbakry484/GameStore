@@ -1,12 +1,2402 @@
 {
   "Version": 1,
-  "Hash": "Utbl/a8YfDjY8TkWMhKS5kHpiGzIQuKt5xhEtoFCXss=",
+  "Hash": "nBNfpdU6A+eiFaNlc+qjfMrV3ScR+tu4MYTYjGX7kiQ=",
   "Source": "GameStore.Api",
   "BasePath": "_content/GameStore.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.Api\\wwwroot",
+      "Source": "GameStore.Api",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\2ygqcqn8wr-3ktb43okjy.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/admin#[.{fingerprint=3ktb43okjy}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\admin.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "c3vt709dh7",
+      "Integrity": "WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\admin.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\4jtbl5fnvz-jcih7yh82n.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "admin#[.{fingerprint=jcih7yh82n}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\admin.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vcif643pop",
+      "Integrity": "US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\admin.html"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\d0dann403t-svbh4kdcrx.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "css/styles#[.{fingerprint=svbh4kdcrx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ybcdn0g506",
+      "Integrity": "rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\df6wenb6so-pqekkjh4ak.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/main#[.{fingerprint=pqekkjh4ak}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "91ravyw8nd",
+      "Integrity": "Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\vctv3wepb7-6x1mx4i7tm.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "index#[.{fingerprint=6x1mx4i7tm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6xhrrf1y1v",
+      "Integrity": "hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\wj1ozo2bsp-n53dcla401.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/api#[.{fingerprint=n53dcla401}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\api.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vi33rocwnq",
+      "Integrity": "abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\api.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\xyl5qrt1g7-gm6gmoh2ec.gz",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "css/admin#[.{fingerprint=gm6gmoh2ec}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\admin.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "avo55xnat3",
+      "Integrity": "JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\admin.html",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "admin#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcih7yh82n",
+      "Integrity": "I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin.html"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\admin.css",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "css/admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm6gmoh2ec",
+      "Integrity": "iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\styles.css",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "svbh4kdcrx",
+      "Integrity": "mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6x1mx4i7tm",
+      "Integrity": "xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\admin.js",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/admin#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ktb43okjy",
+      "Integrity": "Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\admin.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\api.js",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/api#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n53dcla401",
+      "Integrity": "O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\api.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\main.js",
+      "SourceId": "GameStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\",
+      "BasePath": "_content/GameStore.Api",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqekkjh4ak",
+      "Integrity": "oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "admin.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\4jtbl5fnvz-jcih7yh82n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793021412"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1260"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\4jtbl5fnvz-jcih7yh82n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA="
+        }
+      ]
+    },
+    {
+      "Route": "admin.jcih7yh82n.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\4jtbl5fnvz-jcih7yh82n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793021412"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1260"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcih7yh82n"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI="
+        }
+      ]
+    },
+    {
+      "Route": "admin.jcih7yh82n.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcih7yh82n"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I7apd2g4eI49Y3NKAh/XETCAM9uVk/JMD+KI4kxo4lI="
+        }
+      ]
+    },
+    {
+      "Route": "admin.jcih7yh82n.html.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\4jtbl5fnvz-jcih7yh82n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcih7yh82n"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-US8T/8akItrxefwJYaAqggidSZQagQspPeSd8c5arIA="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\xyl5qrt1g7-gm6gmoh2ec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001215066829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\xyl5qrt1g7-gm6gmoh2ec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.gm6gmoh2ec.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\xyl5qrt1g7-gm6gmoh2ec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001215066829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm6gmoh2ec"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.gm6gmoh2ec.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm6gmoh2ec"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iEtJLkZAz0VEdUD/9vSY9EXBiBrlsNnu9/kLNGyV9Ls="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.gm6gmoh2ec.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\xyl5qrt1g7-gm6gmoh2ec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:49:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm6gmoh2ec"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkbF9P2hv9pFSXL1iSUkJZ+xdUXT9ts1ZWy40VQhMtU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\d0dann403t-svbh4kdcrx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000393391031"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\d0dann403t-svbh4kdcrx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.svbh4kdcrx.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\d0dann403t-svbh4kdcrx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000393391031"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "svbh4kdcrx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.svbh4kdcrx.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "svbh4kdcrx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIXK1tXpglyME2wwuJgjefRGDYvy0YWyDGnIYPkShuo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.svbh4kdcrx.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\d0dann403t-svbh4kdcrx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "svbh4kdcrx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjZnS470NxFzgeZkPn2gyh5pG6S/OQjRKy9xlnZeAnM="
+        }
+      ]
+    },
+    {
+      "Route": "index.6x1mx4i7tm.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\vctv3wepb7-6x1mx4i7tm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000529941706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6x1mx4i7tm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA="
+        }
+      ]
+    },
+    {
+      "Route": "index.6x1mx4i7tm.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6x1mx4i7tm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA="
+        }
+      ]
+    },
+    {
+      "Route": "index.6x1mx4i7tm.html.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\vctv3wepb7-6x1mx4i7tm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6x1mx4i7tm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\vctv3wepb7-6x1mx4i7tm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000529941706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xhvwgTG1Rt25rkfFgL3vovkiA1sE2t0bM36IDGT70HA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\vctv3wepb7-6x1mx4i7tm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:00:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hkUYhO2UIHLUdT7W+XdWjnRoR230GFp+0BaEioK3Hys="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.3ktb43okjy.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\2ygqcqn8wr-3ktb43okjy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000356506239"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2804"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ktb43okjy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/admin.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.3ktb43okjy.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\admin.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ktb43okjy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/admin.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.3ktb43okjy.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\2ygqcqn8wr-3ktb43okjy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ktb43okjy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/admin.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\2ygqcqn8wr-3ktb43okjy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000356506239"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2804"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\admin.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y1qQvAfWL3ZHbkIvgyiqiy5g8+bjjIVxxgRa/k4QIoY="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\2ygqcqn8wr-3ktb43okjy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WIYJsnxC0znfyu36R+O+tkXjlfyXdpPV+amsu+7IdcI="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\wj1ozo2bsp-n53dcla401.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000522193211"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\wj1ozo2bsp-n53dcla401.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.n53dcla401.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\wj1ozo2bsp-n53dcla401.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000522193211"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n53dcla401"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.n53dcla401.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8729"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n53dcla401"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/G/EG9NgW9y1pXyDBFIe3aEkIZex/FOazgG/0WDcok="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.n53dcla401.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\wj1ozo2bsp-n53dcla401.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n53dcla401"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-abCOuYyof0HvA6uWF4wP6V2Q0OM1HAFQqFTB4dI6xbA="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\df6wenb6so-pqekkjh4ak.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000279485746"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\df6wenb6so-pqekkjh4ak.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.pqekkjh4ak.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\df6wenb6so-pqekkjh4ak.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000279485746"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqekkjh4ak"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.pqekkjh4ak.js",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqekkjh4ak"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVfc+IR1dNg/mgJVm9vUZV5FWhdkQelOYerzS+xK36Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.pqekkjh4ak.js.gz",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\obj\\Debug\\net9.0\\compressed\\df6wenb6so-pqekkjh4ak.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:46:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqekkjh4ak"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xe7aBDkQy1JwuZWhenuIGttLhzx3Rqt86WTd1SSfM2g="
+        }
+      ]
+    }
+  ]
 }
