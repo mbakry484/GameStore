@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GameStore - Your Ultimate Gaming Destination</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <h1><span class="highlight">Game</span>Store</h1>
+        </div>
+        <div class="nav-links">
+          <a href="#" class="active">Home</a>
+          <a href="#games">Games</a>
+          <a href="#genres">Genres</a>
+          <a href="#about">About</a>
+          <a href="admin.html" class="admin-link">Admin</a>
+        </div>
+        <div class="search-cart">
+          <div class="search-box">
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Search games..."
+            />
+            <button id="search-btn"><i class="fas fa-search"></i></button>
+          </div>
+          <div class="cart">
+            <i class="fas fa-shopping-cart"></i>
+            <span class="cart-count">0</span>
+          </div>
+          <div class="mobile-menu-btn">
+            <i class="fas fa-bars"></i>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Discover Amazing Games</h1>
+        <p>Find the latest and greatest games all in one place</p>
+        <button class="btn-primary" id="browse-games-btn">Browse Games</button>
+      </div>
+    </section>
+
+    <section id="games" class="games-section">
+      <div class="section-header">
+        <h2>Featured Games</h2>
+        <div class="filter-options">
+          <select id="genre-filter">
+            <option value="">All Genres</option>
+            <!-- Genres will be loaded dynamically -->
+          </select>
+          <select id="sort-options">
+            <option value="name">Name (A-Z)</option>
+            <option value="price-low">Price (Low to High)</option>
+            <option value="price-high">Price (High to Low)</option>
+            <option value="release">Release Date (Newest)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="games-grid" id="games-container">
+        <!-- Games will be loaded dynamically -->
+        <!-- Template for game card -->
+        <template id="game-card-template">
+          <div class="game-card" data-game-id="">
+            <div class="game-image">
+              <img src="https://via.placeholder.com/300x180" alt="Game image" />
+              <div class="game-overlay">
+                <button class="btn-view">View Details</button>
+              </div>
+            </div>
+            <div class="game-info">
+              <h3 class="game-title">Game Title</h3>
+              <p class="game-genre">Genre</p>
+              <div class="game-footer">
+                <span class="game-price">$00.00</span>
+                <button class="btn-add-cart">
+                  <i class="fas fa-cart-plus"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+
+      <div class="load-more">
+        <button id="load-more-btn" class="btn-secondary">Load More</button>
+      </div>
+    </section>
+
+    <section id="genres" class="genres-section">
+      <div class="section-header">
+        <h2>Browse by Genre</h2>
+      </div>
+      <div class="genres-grid" id="genres-container">
+        <!-- Genres will be loaded dynamically -->
+        <!-- Template for genre card -->
+        <template id="genre-card-template">
+          <div class="genre-card" data-genre-id="">
+            <div class="genre-icon"></div>
+            <h3 class="genre-name">Genre Name</h3>
+            <span class="game-count">0 Games</span>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <section id="about" class="about-section">
+      <div class="about-content">
+        <h2>About GameStore</h2>
+        <p>
+          GameStore is your ultimate destination for purchasing the latest and
+          greatest games. We offer a wide selection of games across various
+          genres, platforms, and price points.
+        </p>
+        <p>
+          Our mission is to provide gamers with a seamless shopping experience
+          and access to the best titles in the gaming world.
+        </p>
+      </div>
+    </section>
+
+    <!-- Game Details Modal -->
+    <div class="modal" id="game-details-modal">
+      <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <div class="modal-body">
+          <div class="game-detail-image">
+            <img src="https://via.placeholder.com/600x300" alt="Game detail" />
+          </div>
+          <div class="game-detail-info">
+            <h2 id="detail-title">Game Title</h2>
+            <p id="detail-genre">Genre: <span>Action</span></p>
+            <p id="detail-release">Release Date: <span>Jan 1, 2023</span></p>
+            <div class="detail-price-section">
+              <span id="detail-price" class="detail-price">$59.99</span>
+              <button class="btn-primary add-to-cart-detail" data-game-id="0">
+                Add to Cart
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="footer-content">
+        <div class="footer-logo">
+          <h2><span class="highlight">Game</span>Store</h2>
+          <p>Your Ultimate Gaming Destination</p>
+        </div>
+        <div class="footer-links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#games">Games</a></li>
+            <li><a href="#genres">Genres</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
+        </div>
+        <div class="footer-newsletter">
+          <h3>Stay Updated</h3>
+          <p>Subscribe to our newsletter for the latest games and offers</p>
+          <div class="newsletter-form">
+            <input type="email" placeholder="Your email address" />
+            <button class="btn-primary">Subscribe</button>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 GameStore. All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/api.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

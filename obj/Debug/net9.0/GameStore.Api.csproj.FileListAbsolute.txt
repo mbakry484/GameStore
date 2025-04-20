@@ -130,10 +130,10 @@ C:\Users\DELL\source\repos\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hans\Micr
 C:\Users\DELL\source\repos\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\DELL\source\repos\GameStore\GameStore.Api\bin\Debug\net9.0\GameStore.Api.staticwebassets.runtime.json
 C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\df6wenb6so-pqekkjh4ak.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\4jtbl5fnvz-jcih7yh82n.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\xyl5qrt1g7-gm6gmoh2ec.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\2ygqcqn8wr-3ktb43okjy.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\d0dann403t-svbh4kdcrx.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\vctv3wepb7-6x1mx4i7tm.gz
-C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\wj1ozo2bsp-n53dcla401.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\4jtbl5fnvz-ygwe7m8j92.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\xyl5qrt1g7-t3antcxr6q.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\2ygqcqn8wr-4xn1aqyomp.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\vctv3wepb7-hxymwaivxa.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\d0dann403t-t8tnqh0hse.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\wj1ozo2bsp-fjeydk6fpz.gz
+C:\Users\DELL\source\repos\GameStore\GameStore.Api\obj\Debug\net9.0\compressed\df6wenb6so-29futld6js.gz

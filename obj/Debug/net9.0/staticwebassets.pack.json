@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
+      "Id": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\images\\games\\1745097838870_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp",
+      "PackagePath": "staticwebassets\\images\\games\\1745097838870_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\images\\games\\1745097870572_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp",
+      "PackagePath": "staticwebassets\\images\\games\\1745097870572_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\images\\games\\1745098556034_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp",
+      "PackagePath": "staticwebassets\\images\\games\\1745098556034_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\images\\games\\1745098978128_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp",
+      "PackagePath": "staticwebassets\\images\\games\\1745098978128_RxeNb9Ph1y2VhBGv5Ct0tuY6f5xC4t9f.webp"
+    },
+    {
       "Id": "C:\\Users\\DELL\\source\\repos\\GameStore\\GameStore.Api\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

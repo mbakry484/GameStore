@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#333" />
+  <pattern id="pattern" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(45)">
+    <rect width="10" height="10" fill="#444" />
+  </pattern>
+  <rect width="1920" height="1080" fill="url(#pattern)" opacity="0.5" />
+</svg> 
