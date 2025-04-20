@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # 🎮 GameStore - ASP.NET Core Web API
 
 GameStore is a modern web application for browsing and purchasing video games. This repository focuses on the **backend**, built with **ASP.NET Core Web API** and **Entity Framework Core**, showcasing clean architecture, API-first design, and solid backend development practices.
